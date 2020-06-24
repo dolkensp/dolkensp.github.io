@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog</title>
+    <description>DevOps Lead Architect at ClubSpark</description>
+    <link>https://peter.dolkens.me</link>
+    <atom:link href="https://peter.dolkens.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 24 Jun 2020 04:13:52 +0000</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2020 04:13:52 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Cracking Star Citizen - Part I</title>
+        <description>This is the first of a five part series I’m doing about my Star Citizen projects. The series will be covering a range of topics, primarily technical in nature.</description>
+        <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+        <link>https://peter.dolkens.me/cracking-starcitizen-p1</link>
+        <guid isPermaLink="true">https://peter.dolkens.me/cracking-starcitizen-p1</guid>
+        
+        <category>gaming</category>
+        
+        <category>starcitizen</category>
+        
+        <category>modding</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Cross-Platform Makefiles</title>
+        <description>Late last year, I had the priviledge of working with Brian Myburgh on some DevOps automation for ClubSpark. He set up a toolchain for us built upon Docker, which was able to quickly provide any Linux or Mac developer in...</description>
+        <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+        <link>https://peter.dolkens.me/cross-platform-makefiles</link>
+        <guid isPermaLink="true">https://peter.dolkens.me/cross-platform-makefiles</guid>
+        
+        <category>docker</category>
+        
+        <category>devops</category>
+        
+        <category>linux</category>
+        
+        <category>windows</category>
+        
+        <category>mac</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
