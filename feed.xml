@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog</title>
+    <description>DevOps Lead Architect at ClubSpark</description>
+    <link>https://peter.dolkens.me</link>
+    <atom:link href="https://peter.dolkens.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 28 Jul 2021 01:54:41 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Jul 2021 01:54:41 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Recipe: Thai Stir Fry</title>
+        <description>1kg beef 2 sticks of lemon grass 150ml oyster sauce Dash of lemon juice Dash of fish sauce Dash of worstershire sauce 6 baby capscicum - various colours 2 mixed chillies 2 finger chillies 150g ginger 1 teaspoon garlic Dash...</description>
+        <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+        <link>https://peter.dolkens.me/recipe-thai-stir-fry</link>
+        <guid isPermaLink="true">https://peter.dolkens.me/recipe-thai-stir-fry</guid>
+        
+        <category>recipe</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Recipe: Thai Basil Mince</title>
+        <description>500g pork mince 2 sticks of lemon grass 150ml oyster sauce Dash of lemon juice Dash of fish sauce 6 baby capscicum - various colours 2 mixed chillies 1 teaspoon garlic Dash of soy sauce 1/4 cup brown sugar 20g...</description>
+        <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+        <link>https://peter.dolkens.me/recipe-thai-basil-mince</link>
+        <guid isPermaLink="true">https://peter.dolkens.me/recipe-thai-basil-mince</guid>
+        
+        <category>recipe</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Recipe: Stew</title>
+        <description>1.5kg Boneless Blade / Rump 8 Kidneys 4-6 Potatoes 4-6 Carrots 1/2 Celery 2 Onions 1-2 Choko 1 Parsnip 1-2 Swede 1 Can sweet corn Packet of peas</description>
+        <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+        <link>https://peter.dolkens.me/recipe-stew</link>
+        <guid isPermaLink="true">https://peter.dolkens.me/recipe-stew</guid>
+        
+        <category>recipe</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Recipe: Sweet Beef Curry</title>
+        <description>700g Lean Beef 2tbsp Keens Curry Powder 1tbsp Mild Curry Powder 1tbsp Dijon Mustard 1tbsp Ginger + Garlic Paste 2tbsp Tomato + Garlic Paste 1tsp Tumeric 1tsp Cumin 1tsp Coriander 300ml Beef Stock 500g Diced Tomatoes 1/2 cup Brown Sugar...</description>
+        <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+        <link>https://peter.dolkens.me/recipe-curry</link>
+        <guid isPermaLink="true">https://peter.dolkens.me/recipe-curry</guid>
+        
+        <category>recipe</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Recipe: Beef Burger Patties</title>
+        <description>500g Lean Beef Mince 1 Egg 1/2 Brown Onion 2tsp Dijon Mustard 2tsp Steak Seasoning 1tsp Crushed Garlic 1tsp Italian Herbs 1tsp Coriander Dash of Salt Dash of Worcestershire Sauce Covering of Pepper 1/4 Cup Large Breadrumbs</description>
+        <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+        <link>https://peter.dolkens.me/beef-burger-patties</link>
+        <guid isPermaLink="true">https://peter.dolkens.me/beef-burger-patties</guid>
+        
+        <category>recipe</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>CI/CD my blog using Github Actions</title>
+        <description>New article coming soon - check back here for more later.</description>
+        <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+        <link>https://peter.dolkens.me/github-actions</link>
+        <guid isPermaLink="true">https://peter.dolkens.me/github-actions</guid>
+        
+        <category>docker</category>
+        
+        <category>devops</category>
+        
+        <category>linux</category>
+        
+        <category>github</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Cracking Star Citizen - Part I</title>
+        <description>This is the first of a five part series I’m doing about my Star Citizen projects. The series will be covering a range of topics, primarily technical in nature.</description>
+        <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+        <link>https://peter.dolkens.me/cracking-starcitizen-p1</link>
+        <guid isPermaLink="true">https://peter.dolkens.me/cracking-starcitizen-p1</guid>
+        
+        <category>gaming</category>
+        
+        <category>starcitizen</category>
+        
+        <category>modding</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Cross-Platform Makefiles</title>
+        <description>Late last year, I had the priviledge of working with Brian Myburgh on some DevOps automation for ClubSpark. He set up a toolchain for us built upon Docker, which was able to quickly provide any Linux or Mac developer in...</description>
+        <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+        <link>https://peter.dolkens.me/cross-platform-makefiles</link>
+        <guid isPermaLink="true">https://peter.dolkens.me/cross-platform-makefiles</guid>
+        
+        <category>docker</category>
+        
+        <category>devops</category>
+        
+        <category>linux</category>
+        
+        <category>windows</category>
+        
+        <category>mac</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

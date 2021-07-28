@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
+  <link href="https://peter.dolkens.me/author/dolkensp/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://peter.dolkens.me/" rel="alternate" type="text/html" />
+  <updated>2021-07-28T01:54:41+00:00</updated>
+  <id>https://peter.dolkens.me/author/dolkensp/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">My Blog | </title>
+  
+
+  
+    <subtitle>DevOps Lead Architect at ClubSpark</subtitle>
+  
+
+  
+    <author>
+        <name>Peter Dolkens</name>
+      
+      
+    </author>
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Recipe: Thai Stir Fry</title>
+      <link href="https://peter.dolkens.me/recipe-thai-stir-fry" rel="alternate" type="text/html" title="Recipe: Thai Stir Fry" />
+      <published>2021-07-28T00:00:00+00:00</published>
+      <updated>2021-07-28T00:00:00+00:00</updated>
+      <id>https://peter.dolkens.me/recipe-thai-stir-fry</id>
+      <content type="html" xml:base="https://peter.dolkens.me/recipe-thai-stir-fry">&lt;ul&gt;
+  &lt;li&gt;1kg beef&lt;/li&gt;
+  &lt;li&gt;2 sticks of lemon grass&lt;/li&gt;
+  &lt;li&gt;150ml oyster sauce&lt;/li&gt;
+  &lt;li&gt;Dash of lemon juice&lt;/li&gt;
+  &lt;li&gt;Dash of fish sauce&lt;/li&gt;
+  &lt;li&gt;Dash of worstershire sauce&lt;/li&gt;
+  &lt;li&gt;6 baby capscicum - various colours&lt;/li&gt;
+  &lt;li&gt;2 mixed chillies&lt;/li&gt;
+  &lt;li&gt;2 finger chillies&lt;/li&gt;
+  &lt;li&gt;150g ginger&lt;/li&gt;
+  &lt;li&gt;1 teaspoon garlic&lt;/li&gt;
+  &lt;li&gt;Dash of soy sauce&lt;/li&gt;
+  &lt;li&gt;1/4 cup brown sugar&lt;/li&gt;
+  &lt;li&gt;20g thai basil&lt;/li&gt;
+  &lt;li&gt;100g coriander&lt;/li&gt;
+  &lt;li&gt;400g egg noodles&lt;/li&gt;
+  &lt;li&gt;Covering of Pepper&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cut beef into strips&lt;/p&gt;
+
+&lt;p&gt;Grate ginger&lt;/p&gt;
+
+&lt;p&gt;Coriander / Thai Basil can be substituted to taste&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Peter Dolkens</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="recipe" />
+      
+
+      
+        <summary type="html">1kg beef 2 sticks of lemon grass 150ml oyster sauce Dash of lemon juice Dash of fish sauce Dash of worstershire sauce 6 baby capscicum - various colours 2 mixed chillies 2 finger chillies 150g ginger 1 teaspoon garlic Dash of soy sauce 1/4 cup brown sugar 20g thai basil 100g coriander 400g egg noodles Covering of Pepper</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Recipe: Thai Basil Mince</title>
+      <link href="https://peter.dolkens.me/recipe-thai-basil-mince" rel="alternate" type="text/html" title="Recipe: Thai Basil Mince" />
+      <published>2021-07-28T00:00:00+00:00</published>
+      <updated>2021-07-28T00:00:00+00:00</updated>
+      <id>https://peter.dolkens.me/recipe-thai-basil-mince</id>
+      <content type="html" xml:base="https://peter.dolkens.me/recipe-thai-basil-mince">&lt;ul&gt;
+  &lt;li&gt;500g pork mince&lt;/li&gt;
+  &lt;li&gt;2 sticks of lemon grass&lt;/li&gt;
+  &lt;li&gt;150ml oyster sauce&lt;/li&gt;
+  &lt;li&gt;Dash of lemon juice&lt;/li&gt;
+  &lt;li&gt;Dash of fish sauce&lt;/li&gt;
+  &lt;li&gt;6 baby capscicum - various colours&lt;/li&gt;
+  &lt;li&gt;2 mixed chillies&lt;/li&gt;
+  &lt;li&gt;1 teaspoon garlic&lt;/li&gt;
+  &lt;li&gt;Dash of soy sauce&lt;/li&gt;
+  &lt;li&gt;1/4 cup brown sugar&lt;/li&gt;
+  &lt;li&gt;20g thai basil&lt;/li&gt;
+  &lt;li&gt;100g coriander&lt;/li&gt;
+  &lt;li&gt;2 cups of rice&lt;/li&gt;
+  &lt;li&gt;Covering of Pepper&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Coriander / Thai Basil can be substituted to taste&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Peter Dolkens</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="recipe" />
+      
+
+      
+        <summary type="html">500g pork mince 2 sticks of lemon grass 150ml oyster sauce Dash of lemon juice Dash of fish sauce 6 baby capscicum - various colours 2 mixed chillies 1 teaspoon garlic Dash of soy sauce 1/4 cup brown sugar 20g thai basil 100g coriander 2 cups of rice Covering of Pepper</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Recipe: Stew</title>
+      <link href="https://peter.dolkens.me/recipe-stew" rel="alternate" type="text/html" title="Recipe: Stew" />
+      <published>2021-07-28T00:00:00+00:00</published>
+      <updated>2021-07-28T00:00:00+00:00</updated>
+      <id>https://peter.dolkens.me/recipe-stew</id>
+      <content type="html" xml:base="https://peter.dolkens.me/recipe-stew">&lt;ul&gt;
+  &lt;li&gt;1.5kg Boneless Blade / Rump&lt;/li&gt;
+  &lt;li&gt;8 Kidneys&lt;/li&gt;
+  &lt;li&gt;4-6 Potatoes&lt;/li&gt;
+  &lt;li&gt;4-6 Carrots&lt;/li&gt;
+  &lt;li&gt;1/2 Celery&lt;/li&gt;
+  &lt;li&gt;2 Onions&lt;/li&gt;
+  &lt;li&gt;1-2 Choko&lt;/li&gt;
+  &lt;li&gt;1 Parsnip&lt;/li&gt;
+  &lt;li&gt;1-2 Swede&lt;/li&gt;
+  &lt;li&gt;1 Can sweet corn&lt;/li&gt;
+  &lt;li&gt;Packet of peas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dice the beef, and coat in flour&lt;/p&gt;
+
+&lt;p&gt;Add water, and cook for 2.5 hrs (or more)&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Peter Dolkens</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="recipe" />
+      
+
+      
+        <summary type="html">1.5kg Boneless Blade / Rump 8 Kidneys 4-6 Potatoes 4-6 Carrots 1/2 Celery 2 Onions 1-2 Choko 1 Parsnip 1-2 Swede 1 Can sweet corn Packet of peas</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Recipe: Beef Burger Patties</title>
+      <link href="https://peter.dolkens.me/beef-burger-patties" rel="alternate" type="text/html" title="Recipe: Beef Burger Patties" />
+      <published>2021-07-28T00:00:00+00:00</published>
+      <updated>2021-07-28T00:00:00+00:00</updated>
+      <id>https://peter.dolkens.me/beef-burger-patties</id>
+      <content type="html" xml:base="https://peter.dolkens.me/beef-burger-patties">&lt;ul&gt;
+  &lt;li&gt;500g Lean Beef Mince&lt;/li&gt;
+  &lt;li&gt;1 Egg&lt;/li&gt;
+  &lt;li&gt;1/2 Brown Onion&lt;/li&gt;
+  &lt;li&gt;2tsp Dijon Mustard&lt;/li&gt;
+  &lt;li&gt;2tsp Steak Seasoning&lt;/li&gt;
+  &lt;li&gt;1tsp Crushed Garlic&lt;/li&gt;
+  &lt;li&gt;1tsp Italian Herbs&lt;/li&gt;
+  &lt;li&gt;1tsp Coriander&lt;/li&gt;
+  &lt;li&gt;Dash of Salt&lt;/li&gt;
+  &lt;li&gt;Dash of Worcestershire Sauce&lt;/li&gt;
+  &lt;li&gt;Covering of Pepper&lt;/li&gt;
+  &lt;li&gt;1/4 Cup Large Breadrumbs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Place 500g of mince into a large bowl. Add half a finely chopped brown onion. Add 2 tsp of Dijon Mustard, 1 tsp of Crushed Garlic, A sprinkling of Italian Herbs, Steak Seasoning, Coriander, Black Pepper, and Salt. Beat an egg, and mix it through. Add a few coverings of large breadcrumbs, mixing them through thoroughly. Keep adding breadcrumbs until the mixture has a good consistency.&lt;/p&gt;
+
+&lt;p&gt;Split off and roll into balls, approximately 1 inch in diameter.&lt;/p&gt;
+
+&lt;p&gt;Fry with a little oil on a medium heat for 5–10 minutes.&lt;/p&gt;
+
+&lt;p&gt;Makes approx 6 patties&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Peter Dolkens</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="recipe" />
+      
+
+      
+        <summary type="html">500g Lean Beef Mince 1 Egg 1/2 Brown Onion 2tsp Dijon Mustard 2tsp Steak Seasoning 1tsp Crushed Garlic 1tsp Italian Herbs 1tsp Coriander Dash of Salt Dash of Worcestershire Sauce Covering of Pepper 1/4 Cup Large Breadrumbs</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Recipe: Sweet Beef Curry</title>
+      <link href="https://peter.dolkens.me/recipe-curry" rel="alternate" type="text/html" title="Recipe: Sweet Beef Curry" />
+      <published>2021-07-28T00:00:00+00:00</published>
+      <updated>2021-07-28T00:00:00+00:00</updated>
+      <id>https://peter.dolkens.me/recipe-curry</id>
+      <content type="html" xml:base="https://peter.dolkens.me/recipe-curry">&lt;ul&gt;
+  &lt;li&gt;700g Lean Beef&lt;/li&gt;
+  &lt;li&gt;2tbsp Keens Curry Powder&lt;/li&gt;
+  &lt;li&gt;1tbsp Mild Curry Powder&lt;/li&gt;
+  &lt;li&gt;1tbsp Dijon Mustard&lt;/li&gt;
+  &lt;li&gt;1tbsp Ginger + Garlic Paste&lt;/li&gt;
+  &lt;li&gt;2tbsp Tomato + Garlic Paste&lt;/li&gt;
+  &lt;li&gt;1tsp Tumeric&lt;/li&gt;
+  &lt;li&gt;1tsp Cumin&lt;/li&gt;
+  &lt;li&gt;1tsp Coriander&lt;/li&gt;
+  &lt;li&gt;300ml Beef Stock&lt;/li&gt;
+  &lt;li&gt;500g Diced Tomatoes&lt;/li&gt;
+  &lt;li&gt;1/2 cup Brown Sugar&lt;/li&gt;
+  &lt;li&gt;1 Large Potato&lt;/li&gt;
+  &lt;li&gt;1 Medium Onion&lt;/li&gt;
+  &lt;li&gt;2 Small Carrots&lt;/li&gt;
+  &lt;li&gt;Dash of Olive Oil&lt;/li&gt;
+  &lt;li&gt;Dash of Soy Sauce&lt;/li&gt;
+  &lt;li&gt;Covering of Pepper&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Start by dicing 700g of Lean Beef into large pieces. Toss the pieces into a medium Casserole Dish, and cover in the Curry Powders, Tumeric, Cumin, and Coriander, mixing until all pieces are covered well. Drizzle with Olive Oil until all pieces have a light covering and stand.&lt;/p&gt;
+
+&lt;p&gt;Peel the Carrots, then finely dice the Carrot and the Onion. Cut the potato into chunks roughly the same size as the Beef.&lt;/p&gt;
+
+&lt;p&gt;Place a tablespoon of Mustard, Ginger+Garlic Paste, and two tablespoons of Tomato+Garlic Paste in with your Beef. Add the Diced Tomatoes, and then use the Beef stock to clean out the last remnants of the tomatoes into your pot. Cover with a good amount of Black Pepper, add a small dash of Soy Sauce, Half a cup of Brown Sugar, and then throw in the vegatables and stir through. Top up with water if necessary (mixture should be slightly watery at this stage — enough that you can boil off the water to leave a thick sauce)&lt;/p&gt;
+
+&lt;p&gt;Place in the oven at 180°C for 2 hours, or until the sauce thickens; stirring occasionally.&lt;/p&gt;
+
+&lt;p&gt;Serve with Boiled Rice. Serves 2–4&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Peter Dolkens</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="recipe" />
+      
+
+      
+        <summary type="html">700g Lean Beef 2tbsp Keens Curry Powder 1tbsp Mild Curry Powder 1tbsp Dijon Mustard 1tbsp Ginger + Garlic Paste 2tbsp Tomato + Garlic Paste 1tsp Tumeric 1tsp Cumin 1tsp Coriander 300ml Beef Stock 500g Diced Tomatoes 1/2 cup Brown Sugar 1 Large Potato 1 Medium Onion 2 Small Carrots Dash of Olive Oil Dash of Soy Sauce Covering of Pepper</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">CI/CD my blog using Github Actions</title>
+      <link href="https://peter.dolkens.me/github-actions" rel="alternate" type="text/html" title="CI/CD my blog using Github Actions" />
+      <published>2021-01-29T00:00:00+00:00</published>
+      <updated>2021-01-29T00:00:00+00:00</updated>
+      <id>https://peter.dolkens.me/github-actions</id>
+      <content type="html" xml:base="https://peter.dolkens.me/github-actions">&lt;p&gt;New article coming soon - check back here for more later.&lt;/p&gt;
+
+&lt;p&gt;Actions, marketplace, debugging, etc.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Peter Dolkens</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="docker" />
+      
+        <category term="devops" />
+      
+        <category term="linux" />
+      
+        <category term="github" />
+      
+
+      
+        <summary type="html">New article coming soon - check back here for more later.</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://peter.dolkens.me/assets/images/flickr/windows.jpg" />
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Cracking Star Citizen - Part I</title>
+      <link href="https://peter.dolkens.me/cracking-starcitizen-p1" rel="alternate" type="text/html" title="Cracking Star Citizen - Part I" />
+      <published>2020-02-01T00:00:00+00:00</published>
+      <updated>2020-02-01T00:00:00+00:00</updated>
+      <id>https://peter.dolkens.me/cracking-starcitizen-p1</id>
+      <content type="html" xml:base="https://peter.dolkens.me/cracking-starcitizen-p1">&lt;p&gt;This is the first of a five part series I’m doing about my &lt;a href=&quot;https://robertsspaceindustries.com/&quot;&gt;Star Citizen&lt;/a&gt; projects. The series will be covering a range of topics, primarily technical in nature.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Part I:&lt;/strong&gt; My early Star Citizen projects, HangarXPLOR and HoloXPLOR&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Part II:&lt;/strong&gt; The CryTek model formats&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Part III:&lt;/strong&gt; Cracking the CryXmlB and DataForge formats&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Part IV:&lt;/strong&gt; Reversing the Spectrum social platform APIs&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Part V:&lt;/strong&gt; Cracking the p4k archive format, and it’s embedded encryption&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In late 2014, one of my friends got me to pledge for Star Citizen so we could try out the newly released &lt;a href=&quot;https://www.youtube.com/watch?v=qBDv2a3_Kgg&quot;&gt;racing game mode&lt;/a&gt;. I played it for a bit before putting the game down for a while.&lt;/p&gt;
+
+&lt;p&gt;I came back just over a year later, and this time focussed myself more on the combat game modes. I found them quite enjoyable, and it wasn’t long before I found myself spending more to upgrade my ship and try out the various ships available in the game. At the time, there was also a lucrative &lt;a href=&quot;https://www.reddit.com/r/Starcitizen_trades/&quot;&gt;grey market&lt;/a&gt; where I was able to buy and sell in-game ships for real money, and make a small profit due to a currency-exchange loophole at the time. I dabbled in this grey market for a bit, and quickly amassed a collection of small ships known as “LTI tokens”, which were cheap, but in-demand.&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card alignleft&quot;&gt;
+    
+    &lt;img src=&quot;/assets/images/posts/2020/2020-02/2015-12-30-hangarxplor.png&quot; alt=&quot;The RSI Hangar with the HangarXPLOR extension enabled&quot; /&gt;
+    
+    
+        &lt;figcaption class=&quot;caption-text&quot;&gt;HangarXPLOR adds filters, search, and categorization as well as other useful features to the hangar.&lt;/figcaption&gt; 
+    
+&lt;/figure&gt;
+
+&lt;p&gt;This led to my first Star Citizen development effort, which was a small browser extension called &lt;a href=&quot;https://chrome.google.com/webstore/detail/star-citizen-hangar-xplor/bhkgemjdepodofcnmekdobmmbifemhkc&quot;&gt;HangarXPLOR&lt;/a&gt; which helped keep my purchases neatly organized, and it was immediately popular with the community. To this day, it has tens of thousands of installs across Chrome, Firefox and Opera, and requires minimal maintenance to keep it updated as new content is released for the game.&lt;/p&gt;
+
+&lt;p&gt;As a result of my efforts, I was invited by &lt;a href=&quot;https://www.twitch.tv/grayheadedgamer&quot;&gt;GrayHeadedGamer&lt;/a&gt; to appear on a live stream in early January 2016 called “&lt;a href=&quot;https://www.youtube.com/watch?v=NxlYfv2rwUo&quot;&gt;Not So Sober Saturday&lt;/a&gt;”. There we discussed my extension, and eventually moved onto the topic of ideas for future projects that I might be interested in, and it was suggested that it would be nice to work on a tool to “fix” the in-game inventory management system, which many found difficult to use.&lt;/p&gt;
+
+&lt;p&gt;Initially, I didn’t think it would be a viable project, but after a little investigation, I found that the inventory was saved client-side at the time. I also found a &lt;a href=&quot;http://www.zanimation.com/shipstatviewer/&quot;&gt;reference design&lt;/a&gt; from Zane Bien, who would go on to become the Global UI Creative Director at CIG. I whipped up a quick prototype of what I was thinking of, and then shot a quick email off to Zane to check he was ok with me skinning the prototype with his designs. He replied and not only approved my use, but also mentioned he’d already seen my project and was excited to see where it went!&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card alignright&quot;&gt;
+    
+    &lt;img src=&quot;/assets/images/posts/2020/2020-02/2016-02-28-pageviews.png&quot; alt=&quot;HoloXPLOR's first month&quot; /&gt;
+    
+    
+        &lt;figcaption class=&quot;caption-text&quot;&gt;Cloudflare helped HoloXPLOR service over 100,000 pageviews within it's first month.&lt;/figcaption&gt; 
+    
+&lt;/figure&gt;
+
+&lt;p&gt;By the end of January, I’d launched a full version of the project under the name &lt;a href=&quot;https://github.com/dolkensp/HoloXPLOR/&quot;&gt;HoloXPLOR&lt;/a&gt;. I continued to add new features to it, such as the ability for it to automatically update itself, and dynamically compile serialization classes for the useful game data. It rapidly gained popularity, and served over 100,000 impressions within its first month.&lt;/p&gt;
+
+&lt;p&gt;As February drew to a close, CIG announced that they were bringing a new data format to Star Citizen in &lt;a href=&quot;https://www.youtube.com/watch?v=bCisLRiqxwI&quot;&gt;Around the Verse: Episode 2.19&lt;/a&gt;. Shortly afterwards, the new formats started appearing in the early-access environments. In my next post, I’ll go over some of the techniques I used to decipher these new formats, and keep HoloXPLOR operating for a few more months, before CIG released &lt;a href=&quot;https://robertsspaceindustries.com/comm-link/15355-Star-Citizen-Alpha-24-Available&quot;&gt;StarCitizen 2.4&lt;/a&gt; and permanantly moved all user data server-side.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Peter Dolkens</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="gaming" />
+      
+        <category term="starcitizen" />
+      
+        <category term="modding" />
+      
+
+      
+        <summary type="html">This is the first of a five part series I’m doing about my Star Citizen projects. The series will be covering a range of topics, primarily technical in nature.</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://peter.dolkens.me/assets/images/flickr/area18.jpg" />
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Cross-Platform Makefiles</title>
+      <link href="https://peter.dolkens.me/cross-platform-makefiles" rel="alternate" type="text/html" title="Cross-Platform Makefiles" />
+      <published>2020-01-27T00:00:00+00:00</published>
+      <updated>2020-01-27T00:00:00+00:00</updated>
+      <id>https://peter.dolkens.me/cross-platform-makefiles</id>
+      <content type="html" xml:base="https://peter.dolkens.me/cross-platform-makefiles">&lt;p&gt;Late last year, I had the priviledge of working with &lt;a href=&quot;https://www.linkedin.com/in/brianmyburgh/&quot;&gt;Brian Myburgh&lt;/a&gt; on some DevOps automation for &lt;a href=&quot;https://www.linkedin.com/company/clubspark/&quot;&gt;ClubSpark&lt;/a&gt;. He set up a toolchain for us built upon Docker, which was able to quickly provide any Linux or Mac developer in the company with a full suite of tools for managing our infrastructure. Unfortunately for me, I’m primarily a Windows developer!&lt;/p&gt;
+
+&lt;p&gt;I recently spent some time setting up a new Windows development environment, and wanted to be able to utilize the same toolchain without requiring any massive changes to the supplied scripts. What follows is my journey on building a Windows development environment that was able to work with our toolchain without locking it to any single operating system.&lt;/p&gt;
+
+&lt;p&gt;In the end, there were 5 main hurdles to overcome:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Docker inside Hyper-V&lt;/li&gt;
+  &lt;li&gt;Volume Mounts in Docker for Windows&lt;/li&gt;
+  &lt;li&gt;Lack of native &lt;code class=&quot;highlighter-rouge&quot;&gt;Makefile&lt;/code&gt; support on Windows&lt;/li&gt;
+  &lt;li&gt;MinGW path mangling on Windows&lt;/li&gt;
+  &lt;li&gt;Windows line endings&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;docker-inside-hyper-v&quot;&gt;Docker inside Hyper-V&lt;/h2&gt;
+
+&lt;p&gt;To simplify and isolate my development environment, I have often worked inside a VM which I configure with all the tools I need for development. This confers me a few advantages over installing all the tools directly onto my primary installation:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It enables me to instantly “pause” my work when I’m done and resume later&lt;/li&gt;
+  &lt;li&gt;In the case of hardware failure, I can instantly move my development environment to a new machine&lt;/li&gt;
+  &lt;li&gt;It reduces the number of background services running when using the machine for other tasks, like gaming&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Docker on windows leverages Microsoft’s Hyper-V hypervisor as the core virtualization platform. By default, Hyper-V is not configured to allow nested virtualization, as it can interfere with some of the features of Hyper-V.&lt;/p&gt;
+
+&lt;p&gt;Luckily, it’s fairly easy to enable nested virtualization. To do so, you first need to shut down the virtual machine on the physical host. You then need to run a single powershell command to enable nested virtualization.&lt;/p&gt;
+
+&lt;div class=&quot;language-powershell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;Set-VMProcessor&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;-VMName&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;VMName&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;-ExposeVirtualizationExtensions&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;$true&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;When nested virtualization is enabled, you will be able to install Hyper-V on a guest operating system. It’s important to note, however, that while Hyper-V is running in the guest, the Dynamic Memory and Runtime Memory Resize features of Hyper-V are disabled, and your guest will use the full amount of memory available to it at all times.&lt;/p&gt;
+
+&lt;p&gt;There are also some networking implications to consider, but for the most part these can be ignored. To read more, you can check the &lt;a href=&quot;https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/user-guide/nested-virtualization&quot;&gt;Microsoft Article&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;volume-mounts-in-docker-on-windows&quot;&gt;Volume Mounts in Docker on Windows&lt;/h2&gt;
+
+&lt;p&gt;Once we’ve enabled Hyper-V inside our VM, we now need to install Docker. Docker for Windows provides a really easy to use installer that supports Docker, Kubernetes, and has a bunch of neat features. Unfortunately, volume mounts in the stable branch were not working correctly when operating in the context of an Azure AD user at the time of writing. After much searching, I managed to come across a &lt;a href=&quot;https://github.com/docker/for-win/issues/1352&quot;&gt;github issue&lt;/a&gt; which outlined the error, and revealed that the latest &lt;a href=&quot;https://docs.docker.com/docker-for-windows/edge-release-notes/&quot;&gt;Docker for Windows Edge Release&lt;/a&gt; has resolved the issue in version 2.1.7.0&lt;/p&gt;
+
+&lt;h2 id=&quot;add-makefile-support&quot;&gt;Add Makefile Support&lt;/h2&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card alignright&quot;&gt;
+    
+    &lt;img src=&quot;/assets/images/posts/2020/2020-01/make-help.png&quot; alt=&quot;Make running in the Windows command line.&quot; /&gt;
+    
+    
+        &lt;figcaption class=&quot;caption-text&quot;&gt;Make running in the Windows command line.&lt;/figcaption&gt; 
+    
+&lt;/figure&gt;
+
+&lt;p&gt;When looking to add &lt;code class=&quot;highlighter-rouge&quot;&gt;Makefile&lt;/code&gt; support to my environment, I wanted to avoid any large installations. Ideally I wanted a single &lt;code class=&quot;highlighter-rouge&quot;&gt;make.exe&lt;/code&gt; binary that could be bundled or quickly downloaded by a powershell script or similar. The easy-path was to install a full linux/windows subsystem, like Cygwin, or Microsoft’s WSL solutions, but I didn’t like how heavy those solutions were.&lt;/p&gt;
+
+&lt;p&gt;Eventually I found &lt;a href=&quot;http://gnuwin32.sourceforge.net/&quot;&gt;GnuWin32&lt;/a&gt; which had the binaries I wanted, with minimal dependencies. I already had &lt;a href=&quot;https://gitforwindows.org/&quot;&gt;git for windows&lt;/a&gt; installed, which I thought was a common enough dependency given that our solutions were all stored in GitHub. This ended up being important, as it was reduced the number of additional dependencies needed. The steps I followed to get &lt;code class=&quot;highlighter-rouge&quot;&gt;make&lt;/code&gt; working were:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Browse to &lt;a href=&quot;http://gnuwin32.sourceforge.net/packages/make.htm&quot;&gt;GnuWin32 Make for Windows&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Download the &lt;a href=&quot;http://gnuwin32.sourceforge.net/downlinks/make-bin-zip.php&quot;&gt;GnuWin32 Make Binaries&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Download the &lt;a href=&quot;http://gnuwin32.sourceforge.net/downlinks/make-dep-zip.php&quot;&gt;GnuWin32 Make Dependencies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Extract all of these into a tools folder, e.g. c:\Tools\make&lt;/li&gt;
+  &lt;li&gt;Add the &lt;code class=&quot;highlighter-rouge&quot;&gt;Tools\make&lt;/code&gt; to my &lt;code class=&quot;highlighter-rouge&quot;&gt;PATH&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Add the &lt;code class=&quot;highlighter-rouge&quot;&gt;Git\usr\bin&lt;/code&gt; directory to my &lt;code class=&quot;highlighter-rouge&quot;&gt;PATH&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;At this stage, I was able to run the simple &lt;code class=&quot;highlighter-rouge&quot;&gt;Makefile&lt;/code&gt; in our toolchain and correctly receive the help output.&lt;/p&gt;
+
+&lt;h2 id=&quot;managing-mingw-path-mangling&quot;&gt;Managing MinGW Path Mangling&lt;/h2&gt;
+
+&lt;p&gt;Once I had &lt;code class=&quot;highlighter-rouge&quot;&gt;make&lt;/code&gt; running, I immediately ran into hurdles as the volume mounts used in our toolchain were failing in Windows. Initial investigation revealed that this wasn’t as simple as a straight difference between Unix and Windows file pathing. Running the docker commands manually worked fine, but placing those same commands inside a Makefile saw the paths mangled without warning.&lt;/p&gt;
+
+&lt;p&gt;It turns out that this was an edgecase with the way the MinGW MYSYS system does &lt;a href=&quot;http://www.mingw.org/wiki/Posix_path_conversion&quot;&gt;Posix path conversions&lt;/a&gt;. When used as part of a docker command, the syntax of the commands triggered different heuristics, resulting in mangled paths.&lt;/p&gt;
+
+&lt;p&gt;In the end, I found the fix on &lt;a href=&quot;https://stackoverflow.com/questions/7250130/how-to-stop-mingw-and-msys-from-mangling-path-names-given-at-the-command-line&quot;&gt;StackOverflow&lt;/a&gt;, and it only required me to set an additional set of environment variables to ensure the MYSYS system didn’t mangle my docker paths.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nv&quot;&gt;MSYS_NO_PATHCONV&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;1
+&lt;span class=&quot;nv&quot;&gt;MSYS2_ARG_CONV_EXC&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;*&quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;windows-line-endings&quot;&gt;Windows Line Endings&lt;/h2&gt;
+
+&lt;p&gt;Most Windows-based git clients offer the ability to automatically translate line endings upon checkout and checkin. This helps reduce unnecessary merge commits when people from different platforms work on the same files. Unfortunately, the Linux containers that we use in our toolchains don’t like Windows-style line endings in the shell scripts that we run.&lt;/p&gt;
+
+&lt;p&gt;To resolve this, initially I tried adding a &lt;code class=&quot;highlighter-rouge&quot;&gt;dos2unix&lt;/code&gt; step into our &lt;code class=&quot;highlighter-rouge&quot;&gt;Dockerfile&lt;/code&gt;, but this only worked in some scenarios, as one of the advantages of the toolchain we had set up was the ability to actively work on our files from both the Windows system, and the Linux containers.&lt;/p&gt;
+
+&lt;p&gt;Instead, I resorted to simply adding a &lt;code class=&quot;highlighter-rouge&quot;&gt;.gitattributes&lt;/code&gt; file which explicitly tells git to make sure that all shell scripts in the solution are checked out with Linux line endings.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Prevent bash files from getting broken by windows checkout
+*.sh text eol=lf 
+*.env text eol=lf 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
+
+&lt;p&gt;When all this is put together, we can run our &lt;code class=&quot;highlighter-rouge&quot;&gt;Makefiles&lt;/code&gt; natively on Windows&lt;/p&gt;
+
+&lt;figure class=&quot;kg-card kg-image-card&quot;&gt;
+    &lt;video controls=&quot;&quot; autoplay=&quot;&quot; muted=&quot;&quot; width=&quot;100%&quot;&gt;
+      
+        
+            &lt;source src=&quot;https://i.imgur.com/sBQpFoe.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+        
+        
+        
+    &lt;/video&gt;
+    
+    &lt;figcaption class=&quot;caption-text&quot;&gt;Launching this blog inside Docker from Windows&lt;/figcaption&gt;
+    
+&lt;/figure&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Peter Dolkens</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="docker" />
+      
+        <category term="devops" />
+      
+        <category term="linux" />
+      
+        <category term="windows" />
+      
+        <category term="mac" />
+      
+
+      
+        <summary type="html">Late last year, I had the priviledge of working with Brian Myburgh on some DevOps automation for ClubSpark. He set up a toolchain for us built upon Docker, which was able to quickly provide any Linux or Mac developer in the company with a full suite of tools for managing our infrastructure. Unfortunately for me, I’m primarily a Windows developer!</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://peter.dolkens.me/assets/images/flickr/windows.jpg" />
+      
+    </entry>
+  
+</feed>

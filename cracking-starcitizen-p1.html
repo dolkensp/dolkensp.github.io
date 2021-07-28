@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <link rel="canonical" href="https://peter.dolkens.me/cracking-starcitizen-p1">
+    <title>Cracking Star Citizen - Part I | My Blog</title>
+    <meta name="description" content="This is the first of a five part series I’m doing about my Star Citizen projects. The series will be covering a range of topics, primarily technical in nature." />
+    <meta name="author" content="dolkensp" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Cracking Star Citizen - Part I | My Blog" />
+    <meta property="og:site_name" content="My Blog" />
+    <meta property="og:description" content="This is the first of a five part series I’m doing about my Star Citizen projects. The series will be covering a range of topics, primarily technical in nature." />
+    <meta property="og:url" content="https://peter.dolkens.me/cracking-starcitizen-p1">
+    <meta property="og:type" content="article">
+    <meta property="article:published_time" content="2020-02-01T00:00:00+00:00" />
+    <meta property="article:author" content="@">
+    <meta property="article:tags" content="gaming,starcitizen,modding">
+    <meta property="og:image" content="https://peter.dolkens.me/assets/images/flickr/area18.jpg">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:title" content="Cracking Star Citizen - Part I | My Blog">
+    <meta name="twitter:description" content="This is the first of a five part series I’m doing about my Star Citizen projects. The series will be covering a range of topics, primarily technical in nature.">
+    <meta name="twitter:creator" content="@dolkensp">
+    <meta name="twitter:site" content="@dolkensp">
+    <meta name="twitter:card"  content="summary_large_image">
+    <meta name="twitter:image" content="https://peter.dolkens.me/assets/images/flickr/area18.jpg">
+
+    <!-- JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "url": "https://peter.dolkens.me/cracking-starcitizen-p1",
+      "name": "Cracking Star Citizen - Part I",
+      "headline": "Cracking Star Citizen - Part I",
+      "keywords": "gaming,starcitizen,modding",
+      "description": "This is the first of a five part series I’m doing about my Star Citizen projects. The series will be covering a range of topics, primarily technical in nature.",
+      "datePublished": "2020-02-01 00:00:00 +0000",
+      "dateModified": "2020-02-01 00:00:00 +0000",
+      
+      
+      
+      "author": {
+        "@type": "Person",
+        "name": "Peter Dolkens",
+        "url": "https://peter.dolkens.me/"
+        ,
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://peter.dolkens.me/assets/images/authors/dolkensp.jpg"
+        }
+      },
+      
+      
+      
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://peter.dolkens.me/cracking-starcitizen-p1"
+      },
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://peter.dolkens.me/assets/images/flickr/area18.jpg"
+      }
+    }
+    </script>
+
+    
+    <!-- Site Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://peter.dolkens.me/assets/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://peter.dolkens.me/assets/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://peter.dolkens.me/assets/images/favicon-16x16.png">
+    <link rel="manifest" href="https://peter.dolkens.me/site.webmanifest">
+    <link rel="mask-icon" href="https://peter.dolkens.me/assets/images/safari-pinned-tab.svg" color="#f66904">
+    <meta name="apple-mobile-web-app-title" content="peter.dolkens.me">
+    <meta name="application-name" content="peter.dolkens.me">
+    <meta name="msapplication-TileColor" content="#f66904">
+    <meta name="theme-color" content="#f66904">
+
+    <!-- Font Embed Code -->
+    <link href="//fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic%7CPlayfair+Display:400,400italic,700,700italic&display=swap" rel="stylesheet" type="text/css" />
+
+    <!-- CSS Styles -->
+    <link href="https://peter.dolkens.me/assets/css/style.css?v=202107280154410000" rel="stylesheet">
+
+</head>
+
+<body class="home-template">
+
+    <div id="page" class="site">
+
+        
+        <header class="site-header">
+
+    
+    <h1 class="site-title" style="margin-top: 1em">
+      <a href="https://peter.dolkens.me" rel="home">
+        <svg viewBox="0 0 100 100" height="4em" width="4em" style="float: left; margin-top: -1.1em">
+          <title></title>
+          <use xlink:href="https://peter.dolkens.me/assets/images/branding.svg#logo" />
+        </svg>
+        My Blog
+      </a>
+    </h1>
+    
+
+    <a class="sidebar-toggle">
+        <span class="screen-reader-text">Menu and Widgets</span>
+        <span class="icon" aria-hidden="true"></span>
+    </a>
+
+</header><!-- .site-header -->
+
+        
+        
+
+        <main class="site-main">
+    <div class="site-content">
+
+        <article class="post-template">
+
+            <header class="cover post-header">
+                <div class="cover-bg" style="background-image: url(https://peter.dolkens.me/assets/images/flickr/area18.jpg)">
+                </div>
+
+                <div class="cover-content">
+                    <div class="inner">
+                
+                        
+                        <div class="tag-links">
+                            
+                            <a href='https://peter.dolkens.me/tag/gaming/'>gaming</a>
+                            
+                            <a href='https://peter.dolkens.me/tag/starcitizen/'>starcitizen</a>
+                            
+                            <a href='https://peter.dolkens.me/tag/modding/'>modding</a>
+                            
+                        </div><!-- .tag-links -->
+                        
+                
+                        <h1 class="post-title">Cracking Star Citizen - Part I</h1>
+                
+                        <div class="post-meta">
+                            <span class="post-meta-wrap">
+                                
+                                
+                                
+
+                                
+                                <img class="author-avatar" src="https://peter.dolkens.me/assets/images/authors/dolkensp.jpg" alt="dolkensp">
+                                
+
+                                <span class="post-author"><a href="https://peter.dolkens.me/author/dolkensp/">Peter Dolkens</a></span>
+                                
+                                
+
+                                <time class="published" datetime="2020-02-01">
+                                    February 1, 2020
+                                </time>
+                            </span>
+                        </div><!-- .post-meta -->
+                
+                        <a href="#" class="arrow-down"><span class="screen-reader-text">Scroll Down</span></a>
+                    </div><!-- .inner -->
+                </div><!-- .cover-content -->
+            </header><!-- .cover -->
+            
+    
+        
+        <cite class="cover-cite">Cover image courtesy of
+            
+            <a href="https://www.hasgaha.com/" target="_blank">
+                Mr. Hasgaha
+            </a>
+            .
+        </cite><!-- .cover-cite -->
+        
+    
+
+
+
+            <div class="inner">
+                <div class="post-content">
+                    <p>This is the first of a five part series I’m doing about my <a href="https://robertsspaceindustries.com/">Star Citizen</a> projects. The series will be covering a range of topics, primarily technical in nature.</p>
+
+<ul>
+  <li><strong>Part I:</strong> My early Star Citizen projects, HangarXPLOR and HoloXPLOR</li>
+  <li><strong>Part II:</strong> The CryTek model formats</li>
+  <li><strong>Part III:</strong> Cracking the CryXmlB and DataForge formats</li>
+  <li><strong>Part IV:</strong> Reversing the Spectrum social platform APIs</li>
+  <li><strong>Part V:</strong> Cracking the p4k archive format, and it’s embedded encryption</li>
+</ul>
+
+<hr />
+
+<p>In late 2014, one of my friends got me to pledge for Star Citizen so we could try out the newly released <a href="https://www.youtube.com/watch?v=qBDv2a3_Kgg">racing game mode</a>. I played it for a bit before putting the game down for a while.</p>
+
+<p>I came back just over a year later, and this time focussed myself more on the combat game modes. I found them quite enjoyable, and it wasn’t long before I found myself spending more to upgrade my ship and try out the various ships available in the game. At the time, there was also a lucrative <a href="https://www.reddit.com/r/Starcitizen_trades/">grey market</a> where I was able to buy and sell in-game ships for real money, and make a small profit due to a currency-exchange loophole at the time. I dabbled in this grey market for a bit, and quickly amassed a collection of small ships known as “LTI tokens”, which were cheap, but in-demand.</p>
+
+<figure class="kg-card kg-image-card alignleft">
+    
+    <img src="/assets/images/posts/2020/2020-02/2015-12-30-hangarxplor.png" alt="The RSI Hangar with the HangarXPLOR extension enabled" />
+    
+    
+        <figcaption class="caption-text">HangarXPLOR adds filters, search, and categorization as well as other useful features to the hangar.</figcaption> 
+    
+</figure>
+
+<p>This led to my first Star Citizen development effort, which was a small browser extension called <a href="https://chrome.google.com/webstore/detail/star-citizen-hangar-xplor/bhkgemjdepodofcnmekdobmmbifemhkc">HangarXPLOR</a> which helped keep my purchases neatly organized, and it was immediately popular with the community. To this day, it has tens of thousands of installs across Chrome, Firefox and Opera, and requires minimal maintenance to keep it updated as new content is released for the game.</p>
+
+<p>As a result of my efforts, I was invited by <a href="https://www.twitch.tv/grayheadedgamer">GrayHeadedGamer</a> to appear on a live stream in early January 2016 called “<a href="https://www.youtube.com/watch?v=NxlYfv2rwUo">Not So Sober Saturday</a>”. There we discussed my extension, and eventually moved onto the topic of ideas for future projects that I might be interested in, and it was suggested that it would be nice to work on a tool to “fix” the in-game inventory management system, which many found difficult to use.</p>
+
+<p>Initially, I didn’t think it would be a viable project, but after a little investigation, I found that the inventory was saved client-side at the time. I also found a <a href="http://www.zanimation.com/shipstatviewer/">reference design</a> from Zane Bien, who would go on to become the Global UI Creative Director at CIG. I whipped up a quick prototype of what I was thinking of, and then shot a quick email off to Zane to check he was ok with me skinning the prototype with his designs. He replied and not only approved my use, but also mentioned he’d already seen my project and was excited to see where it went!</p>
+
+<figure class="kg-card kg-image-card alignright">
+    
+    <img src="/assets/images/posts/2020/2020-02/2016-02-28-pageviews.png" alt="HoloXPLOR's first month" />
+    
+    
+        <figcaption class="caption-text">Cloudflare helped HoloXPLOR service over 100,000 pageviews within it's first month.</figcaption> 
+    
+</figure>
+
+<p>By the end of January, I’d launched a full version of the project under the name <a href="https://github.com/dolkensp/HoloXPLOR/">HoloXPLOR</a>. I continued to add new features to it, such as the ability for it to automatically update itself, and dynamically compile serialization classes for the useful game data. It rapidly gained popularity, and served over 100,000 impressions within its first month.</p>
+
+<p>As February drew to a close, CIG announced that they were bringing a new data format to Star Citizen in <a href="https://www.youtube.com/watch?v=bCisLRiqxwI">Around the Verse: Episode 2.19</a>. Shortly afterwards, the new formats started appearing in the early-access environments. In my next post, I’ll go over some of the techniques I used to decipher these new formats, and keep HoloXPLOR operating for a few more months, before CIG released <a href="https://robertsspaceindustries.com/comm-link/15355-Star-Citizen-Alpha-24-Available">StarCitizen 2.4</a> and permanantly moved all user data server-side.</p>
+
+                </div><!-- .post-content -->
+
+                <footer class="post-footer share-post">
+
+                    <span>Share:</span>
+                    <a class="circle" target="_blank" href="https://twitter.com/share?text=Cracking+Star+Citizen+-+Part+I&amp;url=https://peter.dolkens.me/cracking-starcitizen-p1">
+                        <i class="icon-twitter" aria-hidden="true"></i><span class="screen-reader-text">Twitter</span>
+                    </a>
+                    <a class="circle" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://peter.dolkens.me/cracking-starcitizen-p1">
+                        <i class="icon-facebook" aria-hidden="true"></i><span class="screen-reader-text">Facebook</span>
+                    </a>
+
+                </footer>
+
+                
+<section class="comments-area">
+    <div class="inner">
+        <h2 class="comments-title">Comments</h2>
+
+        <div id="disqus_thread"></div>
+    
+        <script type="text/javascript">
+            var disqus_shortname = 'dolkensp';
+            var disqus_developer = 0;
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+                Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </div><!-- .inner -->
+</section>
+
+
+            </div><!-- .inner -->
+        </article>
+
+        <nav class="post-navigation">
+
+    <h2 class="screen-reader-text">Post navigation</h2>
+    <div class="nav-links">
+
+        
+        <a href="https://peter.dolkens.me/github-actions" class="nav-next">
+
+            
+            <div class="nav-bg" style="background-image: url(/assets/images/flickr/windows.jpg)"></div>
+            
+
+            <div class="nav-inside">
+                <span class="nav-before">Next</span><span class="nav-title">CI/CD my blog using Github Actions</span><span
+                    class="nav-date">January 29, 2021</span>
+            </div>
+
+        </a>
+        
+
+        
+        <a href="https://peter.dolkens.me/cross-platform-makefiles" class="nav-previous">
+
+            
+            <div class="nav-bg" style="background-image: url(/assets/images/flickr/windows.jpg)"></div>
+            
+
+            <div class="nav-inside">
+                <span class="nav-before">Previous</span>
+                <span class="nav-title">Cross-Platform Makefiles</span>
+                <span class="nav-date">January 27, 2020</span>
+            </div>
+
+        </a>
+        
+
+    </div><!-- .nav-links-->
+</nav><!-- .post-navigation -->
+
+    </div><!-- .site-content -->
+</main><!-- .site-main -->
+
+
+        
+
+        
+
+        <aside class="sidebar">
+	<div class="sidebar-scrollable">
+		<div class="inner">
+			<div class="widget-area">
+	
+				<nav class="site-navigation">
+					<h2>Explore Website</h2>
+					<ul class="menu">
+						
+							<li class="menu-item"><a href="https://peter.dolkens.me/style-guide">Style Guide</a></li>
+						
+							<li class="menu-item"><a href="https://peter.dolkens.me/brand-guidelines">Brand Guidelines</a></li>
+						
+					</ul>
+				</nav>
+
+				
+<section class="widget widget-text">
+    <h2 class="widget-title">About My Blog</h2>
+    <p>DevOps Lead Architect at ClubSpark</p>
+</section>
+
+
+<!-- Create a sorted array of tags -->
+ 
+<section class="widget widget-tags">
+    <h2 class="widget-title">Tags</h2>
+    <div class="tagcloud">
+        
+        <a class="button" href="https://peter.dolkens.me/tag/devops/">devops
+            <span aria-hidden="true">
+                <span class="line left"></span>
+                <span class="line top"></span>
+                <span class="line right"></span>
+                <span class="line bottom"></span>
+            </span>
+        </a>
+        
+        <a class="button" href="https://peter.dolkens.me/tag/docker/">docker
+            <span aria-hidden="true">
+                <span class="line left"></span>
+                <span class="line top"></span>
+                <span class="line right"></span>
+                <span class="line bottom"></span>
+            </span>
+        </a>
+        
+        <a class="button" href="https://peter.dolkens.me/tag/gaming/">gaming
+            <span aria-hidden="true">
+                <span class="line left"></span>
+                <span class="line top"></span>
+                <span class="line right"></span>
+                <span class="line bottom"></span>
+            </span>
+        </a>
+        
+        <a class="button" href="https://peter.dolkens.me/tag/github/">github
+            <span aria-hidden="true">
+                <span class="line left"></span>
+                <span class="line top"></span>
+                <span class="line right"></span>
+                <span class="line bottom"></span>
+            </span>
+        </a>
+        
+        <a class="button" href="https://peter.dolkens.me/tag/linux/">linux
+            <span aria-hidden="true">
+                <span class="line left"></span>
+                <span class="line top"></span>
+                <span class="line right"></span>
+                <span class="line bottom"></span>
+            </span>
+        </a>
+        
+        <a class="button" href="https://peter.dolkens.me/tag/mac/">mac
+            <span aria-hidden="true">
+                <span class="line left"></span>
+                <span class="line top"></span>
+                <span class="line right"></span>
+                <span class="line bottom"></span>
+            </span>
+        </a>
+        
+        <a class="button" href="https://peter.dolkens.me/tag/modding/">modding
+            <span aria-hidden="true">
+                <span class="line left"></span>
+                <span class="line top"></span>
+                <span class="line right"></span>
+                <span class="line bottom"></span>
+            </span>
+        </a>
+        
+        <a class="button" href="https://peter.dolkens.me/tag/recipe/">recipe
+            <span aria-hidden="true">
+                <span class="line left"></span>
+                <span class="line top"></span>
+                <span class="line right"></span>
+                <span class="line bottom"></span>
+            </span>
+        </a>
+        
+        <a class="button" href="https://peter.dolkens.me/tag/starcitizen/">starcitizen
+            <span aria-hidden="true">
+                <span class="line left"></span>
+                <span class="line top"></span>
+                <span class="line right"></span>
+                <span class="line bottom"></span>
+            </span>
+        </a>
+        
+        <a class="button" href="https://peter.dolkens.me/tag/windows/">windows
+            <span aria-hidden="true">
+                <span class="line left"></span>
+                <span class="line top"></span>
+                <span class="line right"></span>
+                <span class="line bottom"></span>
+            </span>
+        </a>
+        
+    </div>
+</section>
+
+				
+			</div><!-- .widget-area -->
+			<a class="sidebar-toggle">
+				<span class="screen-reader-text">Close</span>
+				<span class="icon" aria-hidden="true"></span>
+			</a>
+		</div><!-- .inner -->
+	</div><!-- .sidebar-scrollable -->
+</aside><!-- .sidebar -->
+        <footer class="site-footer">
+    <div class="inner">
+
+        <div class="offsite-links">
+
+    
+    <a href="https://twitter.com/dolkensp" class="circle" target="_blank">
+        <i class="icon-twitter" aria-hidden="true"></i>
+        <span class="screen-reader-text">Twitter</span>
+    </a>
+    
+
+    
+
+    
+    <a href="https://www.linkedin.com/in/peterdolkens" class="circle" target="_blank">
+        <i class="icon-linkedin" aria-hidden="true"></i>
+        <span class="screen-reader-text">Linkedin</span>
+    </a>
+    
+
+        
+    <a href="https://github.com/peter-dolkens" class="circle" target="_blank">
+        <i class="icon-github" aria-hidden="true"></i>
+        <span class="screen-reader-text">GitHub</span>
+    </a>
+    
+
+    
+
+    
+
+        
+    <a href="https://medium.com/@peter.dolkens" class="circle" target="_blank">
+        <i class="icon-medium" aria-hidden="true"></i>
+        <span class="screen-reader-text">Medium</span>
+    </a>
+    
+
+    
+
+    
+    
+    
+
+    
+
+    <a href="/rss/" class="circle" target="_blank">
+        <i class="icon-feed" aria-hidden="true"></i>
+        <span class="screen-reader-text">RSS</span>
+    </a>
+
+</div><!-- .offsite-links -->
+        <div class="site-info">
+            <a href="#">My Blog</a> &copy; 2021 . Powered by
+            <a target="_jeckyll" href="https://jekyllrb.com/">Jekyll</a>.
+        </div><!-- .site-info -->
+
+        <a href="#page" class="arrow-up" title="Back to Top"><span class="screen-reader-text">Back to the top</span></a>
+
+    </div><!-- .inner -->
+</footer><!-- .site-footer -->
+
+    </div><!-- .site -->
+
+    <!-- Javascript Assets -->
+    <script src="https://peter.dolkens.me/assets/js/jquery-3.2.1.min.js"></script>
+    <script src="https://peter.dolkens.me/assets/js/plugins.js?v=202107280154410000"></script>
+    <script src="https://peter.dolkens.me/assets/js/custom.js?v=202107280154410000"></script>
+
+    
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-29781027-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-29781027-1', { 'anonymize_ip': true });
+  </script>
+
+</body>
+
+</html>
